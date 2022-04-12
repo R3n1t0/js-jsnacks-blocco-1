@@ -8,8 +8,11 @@ console.log(secondoNumero);
 
 if(primoNumero > secondoNumero){
   contenuto.innerHTML = primoNumero;
+
 }else if(primoNumero < secondoNumero){
   contenuto.innerHTML = secondoNumero;
+
 }else{
   contenuto.innerHTML = PARI;
+  
 }
