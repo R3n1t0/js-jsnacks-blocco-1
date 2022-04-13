@@ -1,5 +1,6 @@
-const primoNumero = prompt("Inserire il Primo Numero")
-const secondoNumero = prompt("Inserire il Secondo Numero")
+const primoNumero = parseInt(prompt("Inserire il Primo Numero"))
+const secondoNumero =parseInt(prompt("Inserire il Secondo Numero")) 
+
 const contenuto = document.getElementById("contenuto")
 
 
